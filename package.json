@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "description": "Polymarket frontrun bot: monitor mempool and execute trades before target transactions with priority gas pricing.",
-  "author": "DexorynLab <https://t.me/dexoryn_12>",
+  "author": "DexorynLab <https://t.me/dexoryn_here>",
   "license": "Apache-2.0",
   "type": "commonjs",
   "main": "dist/app/main.js",

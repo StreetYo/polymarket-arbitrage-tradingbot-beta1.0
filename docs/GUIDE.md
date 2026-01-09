@@ -427,10 +427,10 @@ docker stop polymarket-bot
 
 **DexorynLab**
 
-- Telegram: [@dexoryn_12](https://t.me/dexoryn_12)
+- Telegram: [@dexoryn_here](https://t.me/dexoryn_here)
 
 ## Support
 
 For issues and questions:
-- **Telegram:** [@dexoryn_12](https://t.me/dexoryn_12)
+- **Telegram:** [@dexoryn_here](https://t.me/dexoryn_here)
 
